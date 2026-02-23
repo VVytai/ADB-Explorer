@@ -1034,10 +1034,10 @@ ADB는 Android SDK 플랫폼 도구에 포함되어 있습니다.
     <value>해당 없음</value>
   </data>
   <data name="S_PATH_INVALID" xml:space="preserve">
-    <value>제공된 경로가 존재하지 않습니다.</value>
+    <value>인수에는 새 설정 파일 또는 기존 설정 파일의 전체 경로를 지정해야 합니다.</value>
   </data>
   <data name="S_CUSTOM_DATA_PATH" xml:space="preserve">
-    <value>사용자 지정 앱 데이터 경로</value>
+    <value>사용자 지정 앱 설정 경로</value>
   </data>
   <data name="S_MENU_EMPTY" xml:space="preserve">
     <value>메뉴가 비어 있습니다</value>
