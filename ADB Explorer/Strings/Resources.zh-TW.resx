@@ -1044,13 +1044,13 @@ ADB 包含在 Android SDK Platform Tools 中。
     <value>N/A</value>
   </data>
   <data name="S_PATH_INVALID" xml:space="preserve">
-    <value>提供的路徑不存在。</value>
+    <value>該參數必須指定新建立或現有設定檔的完整路徑。</value>
   </data>
   <data name="S_CUSTOM_DATA_PATH" xml:space="preserve">
-    <value>自定義應用數據路徑</value>
+    <value>自定義應用程式設定檔路徑</value>
   </data>
   <data name="S_MENU_EMPTY" xml:space="preserve">
-    <value>菜單爲空</value>
+    <value>選單爲空</value>
   </data>
   <data name="S_ITEM_COPY" xml:space="preserve">
     <value>複製對象 - {0}</value>
