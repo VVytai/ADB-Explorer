@@ -599,7 +599,7 @@ ADB 包含在 Android SDK Platform Tools 中。
     <value>语言</value>
   </data>
   <data name="S_BUTTON_OK" xml:space="preserve">
-    <value>OK</value>
+    <value>确定</value>
   </data>
   <data name="S_FILTER_FILE_OPS" xml:space="preserve">
     <value>筛选文件操作</value>
@@ -1044,10 +1044,10 @@ ADB 包含在 Android SDK Platform Tools 中。
     <value>N/A</value>
   </data>
   <data name="S_PATH_INVALID" xml:space="preserve">
-    <value>提供的路径不存在。</value>
+    <value>变量必须明确新的或现有的设置文件的完整路径。</value>
   </data>
   <data name="S_CUSTOM_DATA_PATH" xml:space="preserve">
-    <value>自定义应用数据路径</value>
+    <value>自定义应用设置路径</value>
   </data>
   <data name="S_MENU_EMPTY" xml:space="preserve">
     <value>菜单为空</value>
